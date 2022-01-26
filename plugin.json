@@ -1,6 +1,6 @@
 {
-	"id": "nodebb-plugin-gravatar",
-	"url": "https://github.com/NodeBB/nodebb-plugin-gravatar",
+	"id": "nodebb-plugin-minotar",
+	"url": "https://github.com/raikasdev/nodebb-plugin-minotar",
 	"library": "./library.js",
 	"hooks": [
 		{ "hook": "static:app.load", "method": "init" },

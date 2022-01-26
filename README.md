@@ -1,3 +1,3 @@
-# Gravatar
+# Minotar
 
-Allows users to use their Gravatar on your forum
+Allows users to use their Minecraft avatar on your forum
