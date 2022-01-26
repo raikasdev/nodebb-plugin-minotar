@@ -1,5 +1,5 @@
 {
-  "name": "nodebb-plugin-minotar",
+  "name": "nodebb-plugin-minotar2",
   "version": "2.3.0",
   "description": "Allows users to use their Minecraft avatar on your forum",
   "main": "library.js",

@@ -1,5 +1,5 @@
 {
-	"id": "nodebb-plugin-minotar",
+	"id": "nodebb-plugin-minotar2",
 	"url": "https://github.com/raikasdev/nodebb-plugin-minotar",
 	"library": "./library.js",
 	"hooks": [
